@@ -1,0 +1,10 @@
+[
+  {
+    "kategori_adi": "🍿 Popüler Sinema",
+    "icerik_json": "https://raw.githubusercontent.com/uygulamadosyalari/main/ornek.json"
+  },
+  {
+    "kategori_adi": "🌿 Belgesel Kuşağı",
+    "icerik_json": "https://raw.githubusercontent.com/uygulamadosyalari/main/ornek2.json"
+  }
+]
