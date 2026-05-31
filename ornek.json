@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Big Buck Bunny",
+    "description": "Açık kaynak kodlu popüler test animasyon filmi.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Main_Poster.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "title": "Sintel",
+    "description": "Blender ekibi tarafından hazırlanan fantastik CGI hikayesi.",
+    "poster": "https://durian.blender.org/wp-content/uploads/2010/10/sintel_poster_v2_small.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  }
+]
