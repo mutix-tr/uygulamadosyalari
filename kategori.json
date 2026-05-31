@@ -1,10 +1,14 @@
 [
   {
-    "kategori_adi": "🍿 Popüler Sinema",
+    "kategori_adi": "🍿 Film Havuzu",
     "icerik_json": "https://raw.githubusercontent.com/mutix-tr/uygulamadosyalari/main/ornek.json"
   },
   {
-    "kategori_adi": "🌿 Belgesel Kuşağı",
-    "icerik_json": "https://raw.githubusercontent.com/mutix-tr/uygulamadosyalari/main/ornek2.json"
+    "kategori_adi": "🌐 Google Anasayfa",
+    "icerik_json": "https://www.google.com/search?igu=1"
+  },
+  {
+    "kategori_adi": "🎮 Mini Oyun / Web Aracı",
+    "icerik_json": "https://mutix.online"
   }
 ]
