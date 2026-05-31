@@ -1,7 +1,20 @@
 [
   {
-    "title": "Doğa ve Fil filleri",
-    "description": "Fillerin vahşi doğadaki yaşam döngüsünü ele alan kesit.",
-    "icerik_json": "https://mahsundizi1.com/"
+    "title": "Big Buck Bunny Film",
+    "description": "Klasik test videosu akışı.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Main_Poster.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "title": "Mutix Retrowace Studio",
+    "description": "Uygulama içinde açılacak entegre web aracı.",
+    "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500",
+    "videoUrl": "https://mutix.online"
+  },
+  {
+    "title": "Cyber Drift 3D",
+    "description": "Doğrudan havuzdan oynanabilir HTML5 oyunu.",
+    "poster": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500",
+    "videoUrl": "https://mutix.xyz"
   }
 ]
