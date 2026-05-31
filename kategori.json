@@ -10,5 +10,9 @@
   {
     "kategori_adi": "🎮 Mini Oyun / Web Aracı",
     "icerik_json": "https://mutix.com.tr"
-  }
+  },
+  {
+    "kategori_adi": "🎬 Dizi Siteleri",
+    "icerik_json": "https://raw.githubusercontent.com/mutix-tr/uygulamadosyalari/main/dizi.json"
+  },
 ]
